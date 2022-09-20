@@ -1,1 +1,3 @@
-# ECE444-F2022-Lab1
+# ECE444 F2022 Lab1 - Git & GitHub
+
+Krishanth Suthaharan
