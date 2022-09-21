@@ -21,3 +21,8 @@ Link to teammates Git repository: https://github.com/ChiatzenW/ECE444-F2022-Lab1
 ![Screen Shot 2022-09-21 at 8 47 10 AM](https://user-images.githubusercontent.com/73756462/191617382-ffef7da1-4781-4428-b4ff-4f04b179957e.png)
 ![Screen Shot 2022-09-21 at 5 48 57 PM](https://user-images.githubusercontent.com/73756462/191617169-bec3a694-d482-4628-acc9-0df65ed8158f.png)
 ![Screen Shot 2022-09-21 at 5 50 52 PM](https://user-images.githubusercontent.com/73756462/191617175-4b9ba36e-8e28-4568-bd58-0d4ee31d2074.png)
+
+### Activity #5
+![Screen Shot 2022-09-21 at 6 17 41 PM](https://user-images.githubusercontent.com/73756462/191622861-ea32fdb1-b486-4501-83e9-fa1e0996203d.png)
+![Screen Shot 2022-09-21 at 6 23 03 PM](https://user-images.githubusercontent.com/73756462/191622867-f71381ed-5216-4a2e-ab89-11f00865244a.png)
+![Screen Shot 2022-09-21 at 6 39 46 PM](https://user-images.githubusercontent.com/73756462/191622875-d0858f8d-775a-42cc-b8b0-d6d12d2c3b11.png)
