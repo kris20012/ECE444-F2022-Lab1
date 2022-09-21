@@ -17,6 +17,7 @@ Krishanth Suthaharan
 ![Screen Shot 2022-09-21 at 8 19 44 AM](https://user-images.githubusercontent.com/73756462/191502233-d06159bb-ae7d-4e7c-a5c0-32d8ae041a5e.png)
 
 ### Activity #4
+Link to teammates Git repository: https://github.com/ChiatzenW/ECE444-F2022-Lab1
 ![Screen Shot 2022-09-21 at 8 47 10 AM](https://user-images.githubusercontent.com/73756462/191617382-ffef7da1-4781-4428-b4ff-4f04b179957e.png)
 ![Screen Shot 2022-09-21 at 5 48 57 PM](https://user-images.githubusercontent.com/73756462/191617169-bec3a694-d482-4628-acc9-0df65ed8158f.png)
 ![Screen Shot 2022-09-21 at 5 50 52 PM](https://user-images.githubusercontent.com/73756462/191617175-4b9ba36e-8e28-4568-bd58-0d4ee31d2074.png)
