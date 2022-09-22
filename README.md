@@ -33,3 +33,7 @@ Link to EP Repo: https://github.com/kris20012/ECE444-F2022-EP
 ### Activity #7
 ![Screen Shot 2022-09-21 at 8 51 46 PM](https://user-images.githubusercontent.com/73756462/191635126-21c2bfd5-e367-4700-8732-f5bacd097aa2.png)
 ![Screen Shot 2022-09-21 at 8 52 52 PM](https://user-images.githubusercontent.com/73756462/191635134-97e7607d-538d-480f-be2e-3e521f06133d.png)
+
+### Activity #8
+![Screen Shot 2022-09-21 at 9 44 05 PM](https://user-images.githubusercontent.com/73756462/191643124-844b2af2-6bbe-4859-8d4b-fed947d907c2.png)
+![Screen Shot 2022-09-21 at 10 10 04 PM](https://user-images.githubusercontent.com/73756462/191643140-da11bd2f-57a3-4cd0-ab88-8f4fe44c9ec5.png)
