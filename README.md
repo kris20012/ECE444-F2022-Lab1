@@ -29,3 +29,7 @@ Link to teammates Git repository: https://github.com/ChiatzenW/ECE444-F2022-Lab1
 
 ### Activity #6
 Link to EP Repo: https://github.com/kris20012/ECE444-F2022-EP
+
+### Activity #7
+![Screen Shot 2022-09-21 at 8 51 46 PM](https://user-images.githubusercontent.com/73756462/191635126-21c2bfd5-e367-4700-8732-f5bacd097aa2.png)
+![Screen Shot 2022-09-21 at 8 52 52 PM](https://user-images.githubusercontent.com/73756462/191635134-97e7607d-538d-480f-be2e-3e521f06133d.png)
